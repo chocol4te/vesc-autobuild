@@ -1,0 +1,12 @@
+[submodule "vedderb-bldc"]
+	path = vedderb-bldc
+	url = git@github.com:vedderb/bldc.git
+[submodule "ackmaniac-bldc"]
+	path = ackmaniac-bldc
+	url = git@github.com:Ackmaniac/bldc.git
+[submodule "ackmaniac-vesc-tool"]
+	path = ackmaniac-vesc-tool
+	url = git@github.com:Ackmaniac/vesc_tool.git
+[submodule "vedderb-vesc-tool"]
+	path = vedderb-vesc-tool
+	url = git@github.com:vedderb/vesc_tool.git
